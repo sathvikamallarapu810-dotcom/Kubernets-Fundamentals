@@ -121,16 +121,17 @@ Minikube Node    → Ready
 Nginx Pod        → Running
 Container        → 1/1 Ready
 Restarts         → 0
-Progress
-Cloud & DevOps Roadmap
+##Screenshots
+<img width="956" height="569" alt="Screenshot 2026-08-12 205219" src="https://github.com/user-attachments/assets/259b4d12-d6cd-436d-9332-b0c18a176bc1" />
 
-AWS Foundations       ✅
-Linux & Networking    ✅
-Git & GitHub          ✅
-Docker                ✅
-Docker Compose        ✅
-Docker Networking     ✅
-Docker Hub            ✅
-Docker Capstone       ✅
-────────────────────────────
-Kubernetes Day 1      ✅
+<img width="959" height="551" alt="Screenshot 2026-08-12 205224" src="https://github.com/user-attachments/assets/d6e822f9-fb51-454e-bf5c-50af2b148b88" />
+
+<img width="959" height="562" alt="Screenshot 2026-08-12 205230" src="https://github.com/user-attachments/assets/40532efb-ee8b-43d9-8344-f3524022f168" />
+
+##author
+Sathvika Mallarapu
+
+cloud devops&cloud engineering learner
+
+
+
